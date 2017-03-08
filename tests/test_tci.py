@@ -11,5 +11,5 @@ def test_mul():
   assert tci.mul(3, 3) == 9
 
 def test_div():
-  assert tci.div(2, 2) == 1
+  assert tci.div(2, 2) == 2
 
